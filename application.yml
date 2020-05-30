@@ -1,0 +1,4 @@
+greeting:
+  message: Hello vikramvy Config-server
+list:
+  values: text1, text2
